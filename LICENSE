@@ -1,0 +1,37 @@
+Pocket Pup
+Copyright (c) 2026 João Lopes. All rights reserved.
+
+This software and its source code are the property of the author. Pocket Pup
+is free to use, but it is NOT open source: the source code is not published.
+
+You MAY:
+- download, install and use Pocket Pup on your own Macs, free of charge, using
+  the official releases;
+- open issues on GitHub to report problems or suggest new features.
+
+You MAY NOT, without prior written permission from the author:
+- copy, reproduce, reverse engineer or reuse the software or its source code,
+  in whole or in part, in any other project;
+- modify the software or create derivative works based on it;
+- distribute, publish, sell, sublicense or share the software or its source
+  code, original or modified, including by re-uploading it elsewhere.
+
+NO WARRANTY. The software is provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and non-infringement. In no
+event shall the author be liable for any claim, damages or other liability
+arising from, out of or in connection with the software or its use. Nothing in
+this license limits rights you may have under mandatory consumer law.
+
+Third-party components are not covered by this license and keep their own
+licenses. Pocket Pup includes:
+- Sparkle (https://sparkle-project.org), Copyright (c) 2006-2013 Andy Matuschak
+  and other contributors, MIT License, including bsdiff (BSD), sais-lite (MIT),
+  ed25519 (zlib) and SUSignatureVerifier (BSD).
+Their full license texts are included inside the app (Settings > Credits and
+licenses, or Pocket Pup.app/Contents/Resources/ThirdPartyNotices.txt).
+
+Trademarks. Tamagotchi is a registered trademark of Bandai Co., Ltd. Pocket Pup
+is an independent project and is not affiliated with, endorsed or sponsored by
+Bandai. Apple, Mac and macOS are trademarks of Apple Inc., registered in the
+U.S. and other countries.
