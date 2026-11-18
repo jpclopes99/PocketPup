@@ -7,6 +7,15 @@
     <language>pt</language>
     <!-- versões (a mais recente primeiro; acrescentadas pelo Scripts/release.sh) -->
     <item>
+      <title>Pocket Pup 1.0.1</title>
+      <pubDate>Wed, 18 Nov 2026 10:24:21 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Mudar o nome dos pets ficou fácil: carrega no nome (no Início, na barra lateral ou no menu do pet) e escreve. Avatares sem sobreposição. Mais raças e cores de cão, incluindo 8 cores de Bulldog Francês.</p>]]></description>
+      <enclosure url="https://github.com/jpclopes99/PocketPup/releases/download/v1.0.1/PocketPup.zip" type="application/octet-stream" sparkle:edSignature="pC9rl8dQOGk60RwrEjLmVqLeFL+R7TOy4nbZxPGvtlt+1Uy9HGTEh9Rb8eHAvd+T4h4JquIu5ecgCLJkKPj0Cg==" length="4360734"/>
+    </item>
+    <item>
       <title>Pocket Pup 1.0.0</title>
       <pubDate>Wed, 18 Nov 2026 10:13:38 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
