@@ -6,5 +6,14 @@
     <description>Pocket Pup updates</description>
     <language>pt</language>
     <!-- versões (a mais recente primeiro; acrescentadas pelo Scripts/release.sh) -->
+    <item>
+      <title>Pocket Pup 1.0.0</title>
+      <pubDate>Wed, 18 Nov 2026 10:13:38 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primeira versão do Pocket Pup: um cãozinho que vive no ecrã do Mac, com 45 raças de cão e as suas cores, truques animados, 13 mini-jogos, abrigos, taça de água, banho, modo foco e atualizações automáticas.</p>]]></description>
+      <enclosure url="https://github.com/jpclopes99/PocketPup/releases/download/v1.0.0/PocketPup.zip" type="application/octet-stream" sparkle:edSignature="JGeWIw2oS8acS9mbiUS5Q0ZMXoyGKOkK7TzGxWdmMGN0ApJE5Al8I+MxVuVu3lGNTTvzBgHSFEALSIDw/l3CAQ==" length="4308106"/>
+    </item>
   </channel>
 </rss>
