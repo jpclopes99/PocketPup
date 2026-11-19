@@ -3,8 +3,8 @@
 <h1 align="center">Pocket Pup</h1>
 
 <p align="center">
-  <b>Um bichinho virtual gratuito que vive no teu Mac.</b><br>
-  Um cãozinho (ou gato, coelho, hamster, raposa, panda, pinguim ou papagaio) que passeia pelo ecrã, sobe às tuas janelas e precisa dos teus cuidados.
+  <b>Um bichinho virtual gratuito que vive no teu Mac — e agora também no iPhone e no iPad.</b><br>
+  Um cãozinho (ou gato, coelho, hamster, raposa, panda, pinguim ou papagaio) que passeia pelo ecrã, sobe às tuas janelas e precisa dos teus cuidados. Em 2D ou 3D.
 </p>
 
 <p align="center"><img src="images/hero.jpg" width="760" alt="Pets do Pocket Pup: um Bulldog Francês, um Labrador, um gato Siamês, um coelho, um Corgi, um hamster, um panda, um Husky e um papagaio"></p>
@@ -28,12 +28,15 @@
 - [Cuidar do pet](#cuidar-do-pet)
 - [Abrigos, taça de água e comida](#abrigos-taça-de-água-e-comida)
 - [Espécies, raças e cores](#espécies-raças-e-cores)
+- [2D ou 3D](#2d-ou-3d)
 - [Truques](#truques)
 - [Mini-jogos e moedas](#mini-jogos-e-moedas)
 - [A janela Casa](#a-janela-casa)
+- [Editor de cenários](#editor-de-cenários)
 - [Modo foco e lembretes](#modo-foco-e-lembretes)
 - [Atalhos de teclado](#atalhos-de-teclado)
 - [Definições](#definições)
+- [iPhone e iPad](#iphone-e-ipad)
 - [Privacidade](#privacidade)
 - [Resolução de problemas](#resolução-de-problemas)
 - [Agradecimentos](#agradecimentos)
@@ -48,16 +51,19 @@ O Pocket Pup é um companheiro de secretária inspirado nos bichinhos virtuais c
 <p align="center"><img src="images/pt/desktop.jpg" width="800" alt="O Pocket Pup na secretária do Mac: um Bulldog Francês sentado em cima de uma janela, um Golden Retriever a beber da taça ao lado da casota e um gato Siamês a brincar com uma bola"></p>
 
 - **8 espécies**, **45 raças de cão** nas cores reais (120 combinações) e **12 raças de gato**
+- **Pets em 2D ou 3D** — os mesmos pets como modelos 3D a sério, com todas as raças, acessórios e truques
 - **61 truques animados** com movimentos e objetos a sério, e **13 mini-jogos**
-- **28 abrigos** (casotas, gaiolas, camas, palácios…), **48 acessórios**, **18 cenários**, **13 comidas**
-- Até **6 pets** a viver juntos, cada um com o seu abrigo na secretária
+- **28 abrigos** (casotas, gaiolas, camas, palácios…), **48 acessórios**, **18 cenários** que podes arrumar à tua maneira, **13 comidas**
+- Até **6 pets** a viver juntos, cada um com o seu abrigo na secretária — em qualquer um dos teus ecrãs
 - Modo foco (pomodoro), lembrete para beber água, widgets de secretária, modo foto e música do humor
+- **Versão para iPhone e iPad** com widgets no ecrã principal e contagem na Dynamic Island *(em breve)*
 - Português e English · tema claro e escuro · atualizações automáticas
 
 ## Requisitos
 
 - macOS 14 Sonoma ou mais recente
 - Mac com Apple Silicon ou Intel
+- iPhone e iPad: iOS / iPadOS 17 ou mais recente *(em breve — ver [iPhone e iPad](#iphone-e-ipad))*
 
 ## Instalar
 
@@ -132,7 +138,7 @@ Os pets continuam a viver com a app fechada (até 8 horas) e bebem da taça enqu
 
 ## Abrigos, taça de água e comida
 
-Cada pet tem o seu abrigo na secretária, com uma taça de água e uma de comida ao lado. **Arrasta o abrigo** para o mudar de sítio no fundo do ecrã; **clica no abrigo** para chamar o pet; **clica na taça de água** para a encher.
+Cada pet tem o seu abrigo na secretária, com uma taça de água e uma de comida ao lado. **Arrasta o abrigo** para onde quiseres — até para outro ecrã — e ele pousa no fundo do ecrã onde o largares (e fica lá da próxima vez); **clica no abrigo** para chamar o pet; **clica na taça de água** para a encher.
 
 <p align="center"><img src="images/pt/homes.jpg" width="800" alt="28 abrigos: casotas de madeira, azul, moderna, rosa e celeiro, palácios, almofadas e camas, torres de arranhar, gaiolas de hamster e de pássaro, coelheira, iglô, tendas, caixa de cartão, cestos de vime e sofás"></p>
 
@@ -153,6 +159,12 @@ Casotas, palácios, almofadas, camas, torres de arranhar, gaiolas de hamster e d
 - **Pelagens especiais** da loja (tigre, galáxia, arco-íris, dourado…) servem em qualquer pet.
 
 Podes mudar a espécie, a raça e a cor quando quiseres em **Aparência**: o nível, os acessórios e o diário mantêm-se.
+
+## 2D ou 3D
+
+Escolhe como os pets são desenhados em **Definições → Aparência → Estilo dos pets** (ou no menu do pet, em **Aparência**). Os pets em 3D são modelos 3D a sério, feitos com as mesmas formas dos desenhos — as mesmas raças, cores, marcas, acessórios e expressões — com luz, sombra e volume. Os truques também ficam iguais: a guitarra, a bola, as bolhas e todos os outros objetos.
+
+<p align="center"><img src="images/pets-2d-3d.jpg" width="800" alt="Cada pet lado a lado: o desenho 2D à esquerda e o modelo 3D à direita — Labrador, Bulldog Francês, Husky, Beagle, Salsicha, Caniche, Pug, gatos, coelho, hamster, raposa, panda, pinguim e papagaio"></p>
 
 ## Truques
 
@@ -188,7 +200,7 @@ Abre-a no menu do pet, na barra de menus ou com **⌃⌥C**.
 | **Abrigo e água** | A taça de água, os abrigos no ecrã e todos os abrigos para a espécie |
 | **Aparência** | Espécie, raça, cor e pelagens especiais |
 | **Acessórios** | 48 acessórios para a cabeça, cara, pescoço e mão |
-| **Cenários** | 18 fundos para o quarto |
+| **Cenários** | 18 fundos para o quarto — e o editor de cenários |
 | **Jogos** | Os 13 mini-jogos e como ganhar moedas |
 | **Truques** | Pede qualquer um dos 61 truques |
 | **Diário** | Tudo o que acontece, dia a dia, e as tuas notas |
@@ -213,7 +225,15 @@ Abre-a no menu do pet, na barra de menus ou com **⌃⌥C**.
   </tr>
 </table>
 
+A fila de pets no topo da barra lateral arrasta-se para o lado quando tens muitos pets, e **Ir brincar com…**, em baixo, fecha a janela e chama os pets para junto do rato.
+
 Há também um **modo foto** (filtros, molduras e legenda) que guarda fotos do quarto na pasta Imagens.
+
+## Editor de cenários
+
+Arruma o quarto à tua maneira: em **Cenários**, carrega em **Editar o cenário atual**. Arrasta qualquer peça (janela, quadro, plantas…) para onde quiseres, aumenta-a ou diminui-a, apaga-a ou acrescenta peças novas — relógios, candeeiros, livros, uma guitarra, um espelho, balões, arco-íris e mais. **Repor** volta ao cenário original; cada cenário guarda a sua arrumação.
+
+<p align="center"><img src="images/pt/scene-editor.jpg" width="800" alt="A editar o cenário do jardim no iPad: cada enfeite tem um contorno tracejado e a barra em baixo tem Acrescentar, Repor e OK"></p>
 
 ## Modo foco e lembretes
 
@@ -235,7 +255,36 @@ Podes mudar os dois em **Definições → Atalhos de teclado**: carrega em **Alt
 
 <p align="center"><img src="images/pt/app-settings.png" width="760" alt="Definições: idioma, tema, atalhos de teclado e opções do companheiro"></p>
 
-Idioma (Português / English) · tema (automático, claro, escuro) · atalhos de teclado · pets no ecrã · abrigos e taças no ecrã · tamanho do pet · ícone na Dock · lembrete da água · música do humor · widgets de secretária · mudar o nome ou libertar o pet selecionado · sobre e atualizações · créditos e licenças.
+Idioma (Português / English) · tema (automático, claro, escuro) · estilo dos pets (2D ou 3D) · atalhos de teclado · pets no ecrã · abrigos e taças no ecrã · tamanho do pet · ícone na Dock · lembrete da água · música do humor · widgets de secretária · mudar o nome ou libertar o pet selecionado · sobre e atualizações · créditos e licenças.
+
+## iPhone e iPad
+
+> **Em breve.** A versão para iPhone e iPad está pronta e em testes; ainda não está na App Store. Segue este repositório (ou as [versões](https://github.com/jpclopes99/PocketPup/releases)) para saberes quando sai.
+
+O iPhone e o iPad não deixam uma app ficar por cima das outras, por isso no iOS os pets vivem no seu **quarto** dentro da app — e fora dela, nos **widgets**, na **Dynamic Island** e nas **notificações**. O resto é igual ao Mac: a janela Casa, os 13 mini-jogos, os truques, as raças e cores, os acessórios, os cenários, o diário, o modo foto, 2D ou 3D, português e inglês e o modo escuro.
+
+<p align="center"><img src="images/pt/iphone.jpg" width="800" alt="O Pocket Pup no iPhone: o quarto com os pets no sofá e na prateleira, o menu do pet, a secção Início e o diário"></p>
+
+- **O quarto** — os pets passeiam, sobem ao sofá e à prateleira, dormem nos abrigos e bebem das taças. **Toca** num pet para abrir o menu, **toca duas vezes** para lhe fazer mimos, **arrasta-o** para o levar e **atira-o** com o dedo. A barra de cima mostra o humor e as necessidades; a de baixo dá comida, água, bola, banho e põe-no a dormir com um toque.
+- **O menu do pet** — as mesmas doze ações do Mac, numa folha.
+- **Casa** — todas as secções da janela Casa do Mac. **Ir brincar com…** leva-te de volta ao quarto.
+- **Toque e vibração** — todos os mini-jogos se jogam com toques, arrastos e deslizes.
+
+<p align="center"><img src="images/pt/iphone-more.jpg" width="640" alt="O Pocket Pup no iPhone: os pets em 3D, o modo foco com a contagem por cima do pet e o editor de cenários"></p>
+
+**No iPad**, o quarto e todos os controlos são maiores, e a Casa tem uma barra lateral como no Mac.
+
+<p align="center"><img src="images/pt/ipad.jpg" width="800" alt="O Pocket Pup no iPad na horizontal: o quarto com três pets, as necessidades em cima e as ações rápidas em baixo"></p>
+
+<p align="center"><img src="images/pt/ipad-home.jpg" width="800" alt="A Casa no iPad, com a barra lateral, o quarto, os anéis de estado, o cartão do pet e as ações rápidas"></p>
+
+**Widgets, Dynamic Island e notificações**
+
+- **Widgets no ecrã principal** (pequeno, médio e grande) mostram o pet, o humor e as necessidades, com botões para **dar comida**, **água**, **mimos** e **dormir** sem abrir a app. Toca no nome do pet para **escolher outro pet** da lista. Também há widgets para o ecrã bloqueado.
+- O **modo foco** mostra a contagem no **ecrã bloqueado** e na **Dynamic Island**.
+- As **notificações** avisam quando o pet está a ficar com fome, sede, sono ou sujo, e quando acaba uma sessão de foco (podes desligá-las nas Definições).
+
+<p align="center"><img src="images/pt/widgets.jpg" width="640" alt="O ecrã principal do iPhone com o widget do Pocket Pup e a contagem do foco na Dynamic Island, ao lado do quarto com um pet a ler durante uma sessão de foco"></p>
 
 ## Privacidade
 
@@ -243,13 +292,14 @@ O Pocket Pup funciona no teu Mac. Não tem conta, nem publicidade, nem estatíst
 
 | Dados | Onde ficam |
 |---|---|
-| Pets, moedas, diário e definições | Só no teu Mac, em `~/Library/Application Support/Pocket Pup/` |
+| Pets, moedas, diário e definições | Só no teu Mac, em `~/Library/Application Support/Pocket Pup/` (no iPhone e no iPad, só no aparelho, partilhados com os widgets) |
 | Fotos que tiras | `~/Pictures/Pocket Pup/` (Imagens) |
 | Procura de atualizações | Pede ao GitHub a lista de versões e descarrega a atualização. Não são enviados dados pessoais |
 
 ## Resolução de problemas
 
 - **O macOS diz que não pode abrir o Pocket Pup** — instala-o com o comando do Terminal acima, ou vai a **Definições do Sistema → Privacidade e Segurança** e carrega em **Abrir mesmo assim**.
+- **Não consigo passar um abrigo para o outro ecrã** — arrasta o próprio abrigo (não as taças) e larga-o por cima do outro ecrã; ele pousa no fundo desse ecrã.
 - **Não vejo o meu pet** — confirma que **Pets a passear no ecrã** está ligado no ícone da barra de menus, ou usa **Chamar os pets para o rato**. Se estiver a dormir, está dentro do abrigo.
 - **Não consigo jogar** — o pet tem de estar acordado e com pelo menos 10% de energia.
 - **Um atalho não funciona** — outra app pode usar a mesma combinação; muda-o em **Definições → Atalhos de teclado**.
