@@ -18,6 +18,7 @@
 
 ## Contents
 
+- [Videos](#videos)
 - [What is Pocket Pup?](#what-is-pocket-pup)
 - [Requirements](#requirements)
 - [Install](#install)
@@ -45,6 +46,14 @@
 - [Feedback](#feedback)
 - [Trademarks](#trademarks)
 - [License](#license)
+
+## Videos
+
+| Mac (46 s) | iPhone (73 s) |
+|:---:|:---:|
+| <a href="docs/video/pocketpup-mac.mp4"><img src="docs/images/video-mac.jpg" width="560" alt="Play the Mac video: the pets walk on the desktop, climb a window, the pet menu opens, they do tricks, eat and go to sleep, and a tour of the Home window"></a> | <a href="docs/video/pocketpup-iphone.mp4"><img src="docs/images/video-iphone.jpg" width="220" alt="Play the iPhone video: the room, carrying and throwing a pet, the ball, the pet menu and tricks, breeds, games, 3D, the scene editor, focus mode, the widget and the Dynamic Island"></a> |
+
+<p align="center"><a href="docs/video/pocketpup-mac-iphone.mp4"><b>▶︎ Watch Mac and iPhone together (86 s)</b></a></p>
 
 ## What is Pocket Pup?
 
