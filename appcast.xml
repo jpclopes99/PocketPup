@@ -7,6 +7,15 @@
     <language>pt</language>
     <!-- versões (a mais recente primeiro; acrescentadas pelo Scripts/release.sh) -->
     <item>
+      <title>Pocket Pup 1.0.5</title>
+      <pubDate>Thu, 19 Nov 2026 19:43:37 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Pocket Pup is now also on iPhone and iPad: download PocketPup.ipa and install it with AltStore or SideStore (see the README). The Mac app is unchanged apart from a smaller, cleaner build.</p>]]></description>
+      <enclosure url="https://github.com/jpclopes99/PocketPup/releases/download/v1.0.5/PocketPup.zip" type="application/octet-stream" sparkle:edSignature="fc2+T7C9gSocFmwVuBbOaqhkUaylATchyPfEkq7rxyM0hH8exkaglZ1IbgWdf3V7HhCHWYLWOCho7JhySfZ9Cw==" length="5027565"/>
+    </item>
+    <item>
       <title>Pocket Pup 1.0.4</title>
       <pubDate>Thu, 19 Nov 2026 18:56:11 +0000</pubDate>
       <sparkle:version>6</sparkle:version>

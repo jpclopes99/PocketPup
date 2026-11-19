@@ -5,8 +5,10 @@ This software and its source code are the property of the author. Pocket Pup
 is free to use, but it is NOT open source: the source code is not published.
 
 You MAY:
-- download, install and use Pocket Pup on your own Macs, free of charge, using
-  the official releases;
+- download, install and use Pocket Pup on your own Macs, iPhones and iPads,
+  free of charge, using the official releases (on iPhone and iPad, installing
+  the official PocketPup.ipa with AltStore, SideStore or a similar tool, which
+  re-signs it with your own Apple ID, is allowed);
 - open issues on GitHub to report problems or suggest new features.
 
 You MAY NOT, without prior written permission from the author:
@@ -33,5 +35,5 @@ licenses, or Pocket Pup.app/Contents/Resources/ThirdPartyNotices.txt).
 
 Trademarks. Tamagotchi is a registered trademark of Bandai Co., Ltd. Pocket Pup
 is an independent project and is not affiliated with, endorsed or sponsored by
-Bandai. Apple, Mac and macOS are trademarks of Apple Inc., registered in the
+Bandai. Apple, Mac, macOS, iPhone, iPad, iOS and iPadOS are trademarks of Apple Inc., registered in the
 U.S. and other countries.

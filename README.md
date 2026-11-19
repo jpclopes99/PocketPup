@@ -21,6 +21,8 @@
 - [What is Pocket Pup?](#what-is-pocket-pup)
 - [Requirements](#requirements)
 - [Install](#install)
+  - [Mac](#install-on-mac)
+  - [iPhone and iPad](#install-on-iphone-and-ipad)
 - [Updates](#updates)
 - [First run](#first-run)
 - [Your pet on the screen](#your-pet-on-the-screen)
@@ -56,16 +58,25 @@ Pocket Pup is a desktop companion inspired by the classic virtual pets. Your pet
 - **28 homes** (kennels, cages, beds, palaces…), **48 accessories**, **18 scenes** you can rearrange, **13 foods**
 - Up to **6 pets** living together, each with its own home on your desktop — on any of your screens
 - Focus mode (pomodoro), water reminder, desktop widgets, photo mode and mood music
-- **iPhone and iPad version** with home-screen widgets and a Dynamic Island timer *(coming soon)*
+- **iPhone and iPad version** with home-screen widgets, a Dynamic Island timer and notifications
 - Portuguese and English · light and dark theme · automatic updates
 
 ## Requirements
 
 - macOS 14 Sonoma or later
 - Apple Silicon or Intel Mac
-- iPhone and iPad: iOS / iPadOS 17 or later *(coming soon — see [iPhone and iPad](#iphone-and-ipad))*
+- iPhone and iPad: iOS / iPadOS 17 or later, installed with [AltStore or SideStore](#install-on-iphone-and-ipad) and a free Apple ID
 
 ## Install
+
+| | File | How |
+|---|---|---|
+| **Mac** | `PocketPup.zip` | One Terminal command — [Mac](#install-on-mac) |
+| **iPhone and iPad** | `PocketPup.ipa` | With AltStore or SideStore, using your own Apple ID — [iPhone and iPad](#install-on-iphone-and-ipad) |
+
+Both are in the [latest release](https://github.com/jpclopes99/PocketPup/releases/latest).
+
+### Install on Mac
 
 In Terminal:
 
@@ -77,9 +88,39 @@ This downloads the latest version, puts **Pocket Pup** in your Applications fold
 
 Or download `PocketPup.zip` from the [latest release](https://github.com/jpclopes99/PocketPup/releases/latest), unzip it and drag **Pocket Pup** to Applications. Pocket Pup is not notarized by Apple yet: if macOS says it can't be opened, open **System Settings → Privacy & Security** and click **Open Anyway** (or use the Terminal command above).
 
+### Install on iPhone and iPad
+
+Pocket Pup isn't on the App Store. You install `PocketPup.ipa` with **[AltStore](https://altstore.io)**, a free app that signs it with **your own Apple ID** — no jailbreak, nothing to pay. You need a Mac (or Windows PC) for the first setup and every few days to keep the app signed.
+
+**1. Set up AltStore (once)**
+
+1. On the Mac, download **AltServer** from [altstore.io](https://altstore.io), move it to Applications and open it. It appears in the menu bar (a diamond icon).
+2. Connect the iPhone or iPad to the Mac with a cable, unlock it and tap **Trust** when asked.
+3. In **Finder**, select the iPhone in the sidebar and turn on **Show this iPhone when on Wi-Fi**, then click **Apply**. This lets AltStore refresh apps without the cable later.
+4. Click the AltServer icon in the menu bar › **Install AltStore** › your iPhone. Sign in with your **Apple ID** (it's only sent to Apple, to sign the apps).
+5. On the iPhone, open **Settings › General › VPN & Device Management**, tap your Apple ID under *Developer App* and tap **Trust**.
+6. On iOS 16 or later, turn on **Settings › Privacy & Security › Developer Mode**, restart when asked and confirm **Turn On**.
+
+**2. Install Pocket Pup**
+
+1. On the iPhone, open the [latest release](https://github.com/jpclopes99/PocketPup/releases/latest) in Safari and tap `PocketPup.ipa` › **Download**.
+2. Open **AltStore** › **My Apps** › **+** (top left), go to **Downloads** and pick `PocketPup.ipa`. AltServer must be running on the Mac, on the same Wi-Fi (or with the cable connected).
+3. Pocket Pup appears on the Home Screen. Open it, adopt your first pet and allow **notifications** if you want to know when it needs you.
+4. To add the widget: touch and hold the Home Screen › **Edit** › **Add Widget** › **Pocket Pup**.
+
+**3. Keep it working**
+
+- Apps signed with a free Apple ID **expire after 7 days**. AltStore refreshes them in the background whenever the iPhone and the Mac running AltServer are on the same Wi-Fi; you can also open AltStore › **My Apps** › **Refresh All**. If Pocket Pup expires, it won't open until you refresh it — your pets stay.
+- **Update**: download the new `PocketPup.ipa` and install it the same way; it replaces the old one and keeps your pets.
+- A free Apple ID can have **3 sideloaded apps** at a time (AltStore itself is one).
+- Prefer not to use a computer? [SideStore](https://sidestore.io) does the same from the iPhone itself, after a one-time setup with a computer.
+- **Uninstall**: touch and hold Pocket Pup on the Home Screen › **Remove App** › **Delete App**.
+
 ## Updates
 
-Pocket Pup checks for new versions on its own and can install them for you. You can also use **Check for updates…** in the menu bar icon or in **Settings → About & updates**, where you can turn automatic checks and installs on or off. Every update is signed: the app only installs updates published by the author.
+On the **Mac**, Pocket Pup checks for new versions on its own and can install them for you. You can also use **Check for updates…** in the menu bar icon or in **Settings → About & updates**, where you can turn automatic checks and installs on or off. Every update is signed: the app only installs updates published by the author.
+
+On **iPhone and iPad**, install the new `PocketPup.ipa` from the [latest release](https://github.com/jpclopes99/PocketPup/releases/latest) with AltStore (see above); your pets are kept.
 
 ## First run
 
@@ -259,7 +300,7 @@ Language (Português / English) · theme (automatic, light, dark) · pet style (
 
 ## iPhone and iPad
 
-> **Coming soon.** The iPhone and iPad version is ready and being tested; it isn't on the App Store yet. Follow this repository (or the [releases](https://github.com/jpclopes99/PocketPup/releases)) to know when it's out.
+> **Install it** with AltStore or SideStore — see [Install on iPhone and iPad](#install-on-iphone-and-ipad). It isn't on the App Store.
 
 iPhone and iPad don't let apps float above other apps, so on iOS your pets live in their own **room** inside the app — and outside it, in **widgets**, the **Dynamic Island** and **notifications**. Everything else is the same as on the Mac: the Home window, the 13 mini-games, tricks, breeds and colours, accessories, scenes, the diary, photo mode, 2D or 3D, Portuguese and English and dark mode.
 
@@ -299,6 +340,8 @@ Pocket Pup runs on your Mac. It has no account, no ads and no analytics.
 ## Troubleshooting
 
 - **macOS says Pocket Pup can't be opened** — install it with the Terminal command above, or open **System Settings → Privacy & Security** and click **Open Anyway**.
+- **Pocket Pup on iPhone won't open** — the free signature expired after 7 days: open AltStore › **My Apps** › **Refresh All** (with AltServer running on the Mac, on the same Wi-Fi). Your pets are kept.
+- **The iPhone widget says "No pet yet"** — open the app once after installing or updating, so the widget can read your pets.
 - **I can't move a home to my other screen** — drag the home itself (not the bowls) and let go over the other screen; it settles at the bottom of that screen.
 - **I can't see my pet** — check that **Pets on screen** is on in the menu bar icon, or use **Call pets to the pointer**. If it's asleep, it's inside its home.
 - **I can't play mini-games** — your pet needs to be awake and have at least 10% energy.
@@ -323,6 +366,6 @@ Tamagotchi is a registered trademark of Bandai Co., Ltd. Pocket Pup is an indepe
 
 ## License
 
-**All rights reserved.** Pocket Pup is free to download, install and use on your own Macs, but it is **not open source**: the source code is not published, and you may not copy, modify or redistribute the app without the author's written permission. The software is provided "as is", without warranty. See [LICENSE](LICENSE) for the full terms. Third-party components are not covered by it and keep their own licenses: [Sparkle](https://sparkle-project.org) (MIT). See [Acknowledgements](#acknowledgements).
+**All rights reserved.** Pocket Pup is free to download, install and use on your own Macs, iPhones and iPads, but it is **not open source**: the source code is not published, and you may not copy, modify or redistribute the app without the author's written permission. The software is provided "as is", without warranty. See [LICENSE](LICENSE) for the full terms. Third-party components are not covered by it and keep their own licenses: [Sparkle](https://sparkle-project.org) (MIT). See [Acknowledgements](#acknowledgements).
 
 © 2026 João Lopes
