@@ -7,6 +7,15 @@
     <language>pt</language>
     <!-- versões (a mais recente primeiro; acrescentadas pelo Scripts/release.sh) -->
     <item>
+      <title>Pocket Pup 1.0.7</title>
+      <pubDate>Thu, 19 Nov 2026 22:18:07 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: put the ball away. When the ball is out, the Ball button becomes Put away (menu bar, pet menu and the iPhone/iPad room).</p>]]></description>
+      <enclosure url="https://github.com/jpclopes99/PocketPup/releases/download/v1.0.7/PocketPup.zip" type="application/octet-stream" sparkle:edSignature="FDh5OjQFsmV57yoB8rFdEaHNHrzu3w19COAmAFoNHbD86c3jWgc5dMW49EyfrzRQgF+l4jKQhtd2cjmbDBrKDg==" length="5054209"/>
+    </item>
+    <item>
       <title>Pocket Pup 1.0.6</title>
       <pubDate>Thu, 19 Nov 2026 21:10:58 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
